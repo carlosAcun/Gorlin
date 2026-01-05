@@ -96,3 +96,4 @@ If you use this code in your research, please cite the corresponding publication
 
 ## Contact
 Carlos Acuña Ocampo
+carlos.acunaocampo@tec.mx
