@@ -69,7 +69,7 @@ This notebook implements the final classification stage using a convolutional ne
 ### Model
 - DenseNet121 architecture
 - Pretrained on ImageNet
-- Fine-tuned for multi-class classification of odontogenic pathologies
+- Fine-tuned for multi-class classification of pathologies
 
 ### Key Characteristics
 - Transfer learning to exploit generic visual features
