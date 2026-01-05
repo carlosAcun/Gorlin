@@ -1,4 +1,4 @@
-# Odontogenic Pathology Classification from Microscopic Images
+# Pathology Classification from Microscopic Images
 
 This repository presents a complete computational pipeline for the preprocessing, outlier removal, and deep learning–based classification of microscopic images corresponding to odontogenic pathologies.
 
