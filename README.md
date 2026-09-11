@@ -7,7 +7,7 @@ The study focuses on the following five classes:
 - Dentigerous Cyst (D)
 - Keratocyst Odontogenic Cyst (K)
 - Orthokeratinized Odontogenic Cyst (O)
-- Dental Follicle (DF)
+- Hyperplastic Dental Follicle (DF)
 
 The proposed methodology ensures geometric consistency in pattern extraction, improves data quality through outlier removal, and achieves robust classification using transfer learning.
 
