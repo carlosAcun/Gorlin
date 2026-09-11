@@ -1,5 +1,9 @@
 # Pathology Classification from Microscopic Images
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22700044.svg)](https://doi.org/10.5281/zenodo.22700044)
+
+# Pathology Classification from Microscopic Images
+
 This repository presents a complete computational pipeline for the preprocessing, outlier removal, and deep learning–based classification of microscopic images corresponding to odontogenic pathologies.
 
 The study focuses on the following five classes:
@@ -90,7 +94,25 @@ This notebook implements the final classification stage using a convolutional ne
 ---
 
 ## Citation
-If you use this code in your research, please cite the corresponding publication.
+
+If you use this code or the computational pipeline in your research, please cite:
+
+Acuña Ocampo, C. (2026). *Gorlin Pathology Classification Pipeline* 
+(Version 1.0.0) [Computer software]. Zenodo.  
+https://doi.org/10.5281/zenodo.22700044
+
+### BibTeX
+
+```bibtex
+@software{acuna_ocampo_2026_gorlin,
+  author    = {Acuña Ocampo, Carlos},
+  title     = {Gorlin Pathology Classification Pipeline},
+  year      = {2026},
+  version   = {1.0.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.22700044},
+  url       = {https://doi.org/10.5281/zenodo.22700044}
+}
 
 ---
 
