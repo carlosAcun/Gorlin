@@ -66,7 +66,7 @@ To remove samples that significantly deviate from the main data distribution and
 ---
 
 ## 3. Deep Learning Classification  
-**Notebook:** `Clasificación_A_D_K_O_D.ipynb`
+**Notebook:** `Clasificación_pathologies.ipynb`
 
 This notebook implements the final classification stage using a convolutional neural network.
 
